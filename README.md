@@ -3,13 +3,16 @@ Hi 👋 My name is Muhammad Hamdi
 
 Web Developer
 -------------
+
 ###
+
+<br clear="both">
 
 <img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
 
 ###
 
-<div align="left">
+<div align="left" style="margin-left: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -60,6 +63,12 @@ Web Developer
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 * 🌍  I'm based in Indonesia
