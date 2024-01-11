@@ -9,10 +9,11 @@ Web Developer
 * ✉️  You can contact me at [hamdj360@gmail.com](mailto:hamdj360@gmail.com)
 * 🧠  I'm learning Filament, and jQuery
 * ⚡  I love cat
-###
 
-<br clear="both">
-###
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
 
 <div align="left" style="margin-left: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -46,9 +47,17 @@ Web Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
 </div>
 
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
 ###
 
-<div align="left">
+## Connect with me  
+<div align="center">
+
   <a href="https://www.instagram.com/h_h2mdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
