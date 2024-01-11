@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Hamdi</h2>
+<h2 align="center">My name is Muhammad Hamdi</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 <img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
 
 <div align="center">
-  <h2>I am web developer 👨‍💻 🚀</h2>
+  <h2>My Skill 👨‍💻 🚀</h2>
 </div>
 
 ###
