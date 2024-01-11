@@ -1,38 +1,14 @@
-Hi 👋 My name is Muhammad Hamdi
-===============================
-
-Web Developer
--------------
-<div align="right">
-<img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
-</div>  
-  
-
-* 🌍  I'm based in Indonesia
-  
-
-* ✉️  You can contact me at [hamdj360@gmail.com](mailto:hamdj360@gmail.com)
-  
-
-* 🧠  I'm learning Filament, and jQuerys  
-  
-
-* ⚡  I love cat 
-  
-
-<br/> 
-
-<br clear="both">
-
-
-
-<br clear="both">
-
-
+<h2 align="left">Hi 👋! My name is Muhammad Hamdi and I'm a Web Developer, from Indonesia</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -80,8 +56,23 @@ Web Developer
 
 ###
 
+<div align="left">
+  <a href="https://www.instagram.com/h_h2mdi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@h_h2mdi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="hamdj360@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
