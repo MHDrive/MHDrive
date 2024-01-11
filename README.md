@@ -3,6 +3,9 @@ Hi 👋 My name is Muhammad Hamdi
 
 Web Developer
 -------------
+<br clear="both">
+<img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
+
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hamdj360@gmail.com](mailto:hamdj360@gmail.com)
 * 🧠  I'm learning Filament, and jQuery
@@ -10,9 +13,6 @@ Web Developer
 ###
 
 <br clear="both">
-
-<img align="right" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
-
 ###
 
 <div align="left" style="margin-left: 10px;">
