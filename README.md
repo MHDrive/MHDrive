@@ -5,10 +5,13 @@ Web Developer
 -------------
 <br clear="both">
 <img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 * 🌍  I'm based in Indonesia
+&nbsp;
 * ✉️  You can contact me at [hamdj360@gmail.com](mailto:hamdj360@gmail.com)
+&nbsp;
 * 🧠  I'm learning Filament, and jQuery
+&nbsp;
 * ⚡  I love cat
 ###
 
