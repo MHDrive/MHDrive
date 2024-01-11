@@ -1,5 +1,5 @@
-<h2 align="center">My name is Muhammad Hamdi</h2>
-
+<h2 align="left">My name is Muhammad Hamdi</h2>
+Web Developer
 ###
 
 <br clear="both">
