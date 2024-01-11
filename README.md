@@ -11,8 +11,7 @@ Web Developer
 
 <br clear="both">
 
-<img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
-<img width="12" />
+<img align="right" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
 
 ###
 
