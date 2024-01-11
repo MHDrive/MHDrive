@@ -3,19 +3,36 @@ Hi 👋 My name is Muhammad Hamdi
 
 Web Developer
 -------------
-<br clear="both">
+<div align="right">
 <img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
+</div>  
+  
+
 * 🌍  I'm based in Indonesia
+  
+
 * ✉️  You can contact me at [hamdj360@gmail.com](mailto:hamdj360@gmail.com)
-* 🧠  I'm learning Filament, and jQuery
-* ⚡  I love cat
+  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+* 🧠  I'm learning Filament, and jQuerys  
+  
+
+* ⚡  I love cat 
+  
+
+<br/> 
+
+<br clear="both">
 
 
 
-<div align="left" style="margin-left: 10px;">
+<br clear="both">
+
+
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -47,17 +64,9 @@ Web Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 ###
 
-## Connect with me  
-<div align="center">
-
+<div align="left">
   <a href="https://www.instagram.com/h_h2mdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -74,6 +83,8 @@ Web Developer
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
