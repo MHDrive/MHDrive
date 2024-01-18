@@ -1,5 +1,7 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Muhammad Hamdi</h1>
+
+<img align="center" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MHDrive&label=Profile%20views&color=0e75b6&style=flat" alt="MHDrive" /> </p>
 
@@ -33,7 +35,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-<img align="left" height="170" src="https://i.imgflip.com/8bygzk.gif"  />
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHDrive&layout=compact&theme=dark" alt=MHDrive />
