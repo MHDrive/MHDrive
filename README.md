@@ -1,5 +1,5 @@
 <div align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/1zV4muw" data-context="false" ><a href="//imgur.com/a/1zV4muw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://github.com/MHDrive/MHDrive/blob/master/header.png" alt="MHDrive GitHub README header image">
 </div>
 
 ###
