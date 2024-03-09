@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/filament.jpg" height="40" alt="filament logo">
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/livewire.png" height="40" alt="livewire logo">
+  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/" height="40" alt="livewire logo">
   <img width="12" />
   <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/alpine.svg" height="40" alt="alpine logo">
 </div>
