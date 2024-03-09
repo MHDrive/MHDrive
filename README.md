@@ -39,9 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/filament/filament.png" alt="filament logo">
-  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/filament/livewire.png" alt="livewire logo">
-  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/filament/alpine.png" alt="alpine logo">
+  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/filament.png" alt="filament logo">
+  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/livewire.png" alt="livewire logo">
+  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/logo/alpine.png" alt="alpine logo">
 </div>
 
 ###
