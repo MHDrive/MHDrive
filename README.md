@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/MHDrive/MHDrive/blob/master/header.png" alt="MHDrive GitHub README header image">
+  <img src="https://raw.githubusercontent.com/MHDrive/MHDrive/master/header.png" alt="MHDrive GitHub README header image">
 </div>
+
 
 ###
 
