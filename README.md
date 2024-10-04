@@ -1,8 +1,8 @@
 <h1 align="center">hi there 👋</h1>
 
-![My card name](https://cardivo.vercel.app/api?name=MH&description=%20I%27m%20a%20developer%20who%20loves%20to%20code%20and%20explore%20new%20technologies!%20Let%27s%20collaborate!&image=https://avatars.githubusercontent.com/u/101302656?v=4&backgroundColor=%230F1626&pattern=topography&colorPattern=%23363c4e&opacity=1&fontColor=%23FFFFFF&instagram=h_h2mdi)
+![My card name](https://cardivo.vercel.app/api?name=MH&description=%20I%27m%20a%20developer%20who%20loves%20to%20code%20and%20explore%20new%20technologies!%20Let%27s%20collaborate!&image=https://avatars.githubusercontent.com/u/101302656?v=4&backgroundColor=%23020202&pattern=topography&colorPattern=%23363c4e&opacity=1&fontColor=%23FFFFFF&iconColor=%2309B8ED&instagram=h_h2mdi)
 
-
+<!-- &backgroundColor=%230F1626&pattern=topography&colorPattern=%23363c4e -->
 
 
 <h3 align="left">🛠 Languages and Tools</h3>
