@@ -4,9 +4,6 @@
 
 
 
-###
-<p align="center">Welcome to my GitHub profile! I'm a passionate software developer who loves to explore new technologies, solve challenging problems, and contribute to open-source projects. Feel free to check out my repositories and projects below.</p>
-
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
