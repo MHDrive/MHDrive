@@ -43,8 +43,6 @@
 
 ###
 
-<h3 align="left">🐍 Contribution Stats</h3>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MHDrive/MHDrive/blob/output/github-contribution-grid-snake-dark.svg">
