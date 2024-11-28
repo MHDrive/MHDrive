@@ -1,19 +1,19 @@
-name: Generate Snake
+# name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # akan dijalankan setiap hari
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"  # akan dijalankan setiap hari
+#   workflow_dispatch:
 
-jobs:
-  generate:
-    steps:
-      - uses: actions/checkout@v2
-      - uses: uses: Platane/snk@latest
-        with:
-          github_user_name: MHDrive
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+# jobs:
+#   generate:
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: uses: Platane/snk@latest
+#         with:
+#           github_user_name: MHDrive
+#           outputs: dist/snake.svg
+#       - uses: crazy-max/ghaction-github-pages@v2.1.3
+#         with:
+#           target_branch: output
+#           build_dir: dist
